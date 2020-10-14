@@ -1,2 +1,6 @@
 hai this is first file in bug-fix branch 1
+<<<<<<< Updated upstream
 this is second time added
+=======
+this is second line added 
+>>>>>>> Stashed changes
