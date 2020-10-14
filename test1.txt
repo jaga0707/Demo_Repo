@@ -1,2 +1,0 @@
-hai this is first file in bug-fix branch 1
-this is second line added 
